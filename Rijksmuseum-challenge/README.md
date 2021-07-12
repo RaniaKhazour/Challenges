@@ -26,7 +26,7 @@
  - The website starts with **english** as default value for the search, but the user can change it to **dutch** as well.
  ![language](img/language.png)
  
- - Example: type **Rembrandt van Rijn** in the search bar to see results.
+ - Example: type **"Rembrandt van Rijn"** in the search bar to see results.
 
  - If the API does not give back data, the user will see a feedback message **"No results found"**.
  ![message](img/message.png)
