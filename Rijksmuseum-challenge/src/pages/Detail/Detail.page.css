@@ -1,0 +1,57 @@
+.img-detail {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 35%;
+  z-index: -1;
+  filter: brightness(50%);
+}
+
+.containerDetail {
+  height: 100vh;
+  width: 100vw;
+}
+
+.goBack {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-top: 30px;
+
+  padding: 0.8em 1.2em;
+  font-size: 1em;
+  margin-left: 30px;
+
+  cursor: pointer;
+  color: white;
+  right: 0;
+}
+.goBack:hover {
+  background-color: white;
+  color: black;
+}
+
+.spinner-detail {
+  display: block;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+}
+
+@media only screen and (max-width: 600px) { 
+  .goBack {
+    padding: 5px 10px;
+    font-size: 12px;
+    margin-left: 30px;
+  }
+  .img-detail {
+    filter: brightness(60%);
+  }
+}
+
+@media only screen and (min-width: 900px) { 
+  .goBack {
+    margin-left: 50px;
+  }
+}

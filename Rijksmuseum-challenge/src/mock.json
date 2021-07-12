@@ -1,0 +1,86 @@
+{
+    "batchcomplete":"",
+    "continue":{
+       "gsroffset":10,
+       "continue":"gsroffset||"
+    },
+    "warnings":{
+       "extracts":{
+          "*":"HTML may be malformed and/or unbalanced and may omit inline images. Use at your own risk. Known problems are listed at https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TextExtracts#Caveats."
+       }
+    },
+    "query":{
+       "pages":{
+          "39330":{
+             "pageid":39330,
+             "ns":0,
+             "title":"Congruence (geometry)",
+             "index":4,
+             "extract":"<p class=\"mw-empty-elt\">\n</p>\n\n<p>In geometry, two figures or objects are <b>congruent</b> if they have the same shape and size, or if one has the same shape and size as the mirror image of the other.</p><p>More formally, two sets of  points are called <b>congruent</b> if, and only if, one can be transformed into the other by an isometry, i.e., a combination of rigid motions, namely a translation, a rotation, and a reflection. This means that either object can be repositioned and reflected (but not resized) so as to coincide precisely with the other object. So two distinct plane figures on a piece of paper are congruent if we can cut them out and then match them up completely. Turning the paper over is permitted.\n</p>\n\n<p>In elementary geometry the word <i>congruent</i> is often used as follows.  The word <i>equal</i> is often used in place of <i>congruent</i> for these objects.\n</p>\n<ul><li>Two line segments are congruent if they have the same length.</li>\n<li>Two angles are congruent if they have the same measure.</li>\n<li>Two circles are congruent if they have the same diameter.</li></ul><p>In this sense, <i>two plane figures are congruent</i> implies that their corresponding characteristics are \"congruent\" or \"equal\" including not just their corresponding sides and angles, but also their corresponding diagonals, perimeters, and areas.\n</p><p>The related concept of similarity applies if the objects have the same shape but do not necessarily have the same size. (Most definitions consider congruence to be a form of similarity, although a minority require that the objects have different sizes in order to qualify as similar.)\n</p>\n\n\n"
+          },
+          "383156":{
+             "pageid":383156,
+             "ns":0,
+             "title":"Datsun 510",
+             "index":7,
+             "extract":"<p class=\"mw-empty-elt\">\n</p>\n\n<dl><dd><i>For 510 model years after 1973, see \"A10 Series\" in the Nissan Violet article.</i></dd></dl><p>The <b>Datsun 510</b> was a series of the Datsun Bluebird sold from 1968 to 1973, and offered outside the U.S. and Canada as the <b>Datsun 1600</b>. \n</p><p>The 510's engineering was inspired by contemporary European sedans, particularly the 1966 BMW 1600-2 \u2014 incorporating a SOHC engine, MacPherson strut suspension in front and independent, semi-trailing arms in the back.  The styling is attributed to Datsun in-house designer, Teruo Uchino.</p><p>The engine was promoted by Nissan USA president Yutaka Katayama, a design developed through Prince, an acquisition.</p><p>Launched in October 1967, body styles included the original four-door sedan, a two-door sedan (June 1968), five-door station wagon, and two-door coup\u00e9 (November 1968).\n</p><p>The 510 range became famous for Nissan's rallying successes outside Japan and paved the way for greater Nissan sales internationally.\n</p><p>The Datsun 510 released to the U.S. market had a Hitachi downdraft-carbureted 1.6L L-series I4 engine, with an advertised gross power of 96\u00a0hp (72\u00a0kW), a claimed top speed of 100\u00a0mph, front disc brakes, four-wheel independent suspension (MacPherson struts front and semi trailing arm rear- wagons had a solid rear live axle and leaf springs in back), rear-wheel drive, and either a four-speed manual or a three-speed automatic transmission. Two-door sedan, four-door sedan, and four-door station wagon variants were available. It achieved 20 to 30 mpg in factory trim (U.S.). Japanese-domestic-market (JDM) models were also available in a two-door coupe body style with either a 1.6L or a 1.8L (1973) L-Series engine. 510s, in some markets, offered twin Hitachi side-draft carburetors, which were a smaller version of the British SU (Skinner's Union) design used on Jaguars and MGs. These engines also used enhanced compression and camshaft profiles to produce more power. SSS models (not available for the U.S. 510) offered upgraded instrumentation and interior trim, as well as appropriate exterior badges. All U.S. model 510s received anti-sun glass from 1970 on.\n</p>"
+          },
+          "617540":{
+             "pageid":617540,
+             "ns":0,
+             "title":"Mitsubishi Galant",
+             "index":10,
+             "extract":"<p class=\"mw-empty-elt\">\n</p>\n<p>The <b>Mitsubishi Galant</b> is an automobile which was produced by Japanese manufacturer Mitsubishi from 1969 to 2012. The model name was derived from the French word <i>galant</i>, meaning \"chivalrous\". There have been nine distinct generations with total cumulative sales exceeding five million units. It began as a compact sedan, but over the course of its life evolved into a mid-size car. Initial production was based in Japan, but from 1994 the American market was served by vehicles assembled at the former Diamond-Star Motors (DSM) facility in Normal, Illinois.\n</p>"
+          },
+          "903965":{
+             "pageid":903965,
+             "ns":0,
+             "title":"Nissan Bluebird",
+             "index":6,
+             "extract":"<p class=\"mw-empty-elt\">\n</p>\n<p>The <b>Nissan Bluebird</b> is a compact car with a model name introduced in 1957. It has been Nissan's most internationally recognized sedan, in multiple body styles, and is known for its dependability and durability. The Bluebird originated from Nissan's first vehicles, dating to the early 1900s, and its traditional competitor became the Toyota Corona. The Bluebird was positioned to compete with the Corona, as the Corona was developed to continue offering a sedan used as a taxi since Toyota Crown was growing in size. Every generation of the Bluebird has been available as a taxi, duties that are shared with base level Nissan Cedrics. It is one of the longest-running nameplates from a Japanese automaker. It spawned most of Nissan's products sold internationally, and has been known by a number of different names and bodystyles, including the 160J/710/Violet/Auster/Stanza line.\n</p>"
+          },
+          "1326090":{
+             "pageid":1326090,
+             "ns":0,
+             "title":"SSS",
+             "index":1,
+             "extract":""
+          },
+          "14021543":{
+             "pageid":14021543,
+             "ns":0,
+             "title":"SSS*",
+             "index":2,
+             "extract":"<p><b>SSS*</b> is a search algorithm, introduced by George Stockman in 1979, that conducts a state space search traversing a game tree in a best-first fashion similar to that of the A* search algorithm.\n</p><p>SSS* is based on the notion of solution trees. Informally, a solution tree can be formed from any arbitrary game tree by pruning the number of branches at each MAX node to one. Such a tree represents a complete strategy for MAX, since it specifies exactly one MAX action for every possible sequence of moves made by the opponent. Given a game tree, SSS* searches through the space of partial solution trees, gradually analyzing larger and larger subtrees, eventually producing a single solution tree with the same root and Minimax value as the original game tree. SSS* never examines a node that alpha-beta pruning would prune, and may prune some branches that alpha-beta would not. Stockman speculated that SSS* may therefore be a better general algorithm than alpha-beta. However, Igor Roizen and Judea Pearl have shown that the savings in the number of positions that SSS* evaluates relative to alpha/beta is limited and generally not enough to compensate for the increase in other resources (e.g., the storing and sorting of a list of nodes made necessary by the best-first nature of the algorithm). However, Aske Plaat, Jonathan Schaeffer, Wim Pijls and Arie de Bruin have shown that a sequence of null-window alpha-beta calls is equivalent to SSS* (i.e., it expands the same nodes in the same order) when alpha-beta is used with a transposition table, as is the case in all game-playing programs for chess, checkers, etc. Now the storing and sorting of the OPEN list were no longer necessary. This allowed the implementation of (an algorithm equivalent to) SSS* in tournament quality game-playing programs. Experiments showed that it did indeed perform better than Alpha-Beta in practice, but that it did not beat NegaScout.</p><p>The reformulation of a best-first algorithm as a sequence of depth-first calls prompted the formulation of a class of null-window alpha-beta algorithms, of which MTD-f is the best known example.\n</p>"
+          },
+          "6339283":{
+             "pageid":6339283,
+             "ns":0,
+             "title":"SSS (cipher)",
+             "index":8,
+             "extract":"<p>In cryptography, <b>SSS</b> is a stream cypher algorithm developed by Gregory Rose, Philip Hawkes, Michael Paddon, and Miriam Wiggers de Vries. It includes a message authentication code feature. It has been submitted to the eSTREAM Project of the eCRYPT network. It has not selected for focus nor for consideration during Phase 2; it has been 'archived'. \n</p>\n\n<p><br></p>"
+          },
+          "920870":{
+             "pageid":920870,
+             "ns":0,
+             "title":"SSS islands",
+             "index":9,
+             "extract":"<p><span></span>\n</p>\n\n\n<p>The <b>SSS Islands</b> are the three islands in the Lesser Antilles that are part of the Kingdom of the Netherlands:\n</p>\n<ol><li>Saba</li>\n<li>Sint Eustatius</li>\n<li>Sint Maarten</li></ol><p>Sint Maarten is a constituent country of the Kingdom of the Netherlands and consists of the southern half of the island of Saint Martin (the northern half is the French Collectivity of Saint Martin). The islands of Saba and Sint Eustatius are public bodies of the Netherlands.\n</p><p>The acronym is analogous to the ABC islands, consisting of Aruba, Bonaire and Cura\u00e7ao, and the BES islands, consisting of Bonaire, Sint Eustatius and Saba, which are part of the Kingdom of the Netherlands. With the exception of Aruba, the other five island territories were formerly part of the Netherlands Antilles.\n</p>"
+          },
+          "28101155":{
+             "pageid":28101155,
+             "ns":0,
+             "title":"Social Security System (Philippines)",
+             "index":3,
+             "extract":"<p>The <b>Social Security System</b> (<b>SSS</b>; Filipino: <i lang=\"fil\">Paseguruhan ng Kapanatagang Panlipunan</i>) is a state-run, social insurance program in the Philippines to workers in the private, professional and informal sectors. SSS is established by virtue of Republic Act No. 1161, better known as the Social Security Act of 1954. This law was later amended by Republic Act No. 8282 in 1997. Government employees, meanwhile, are covered under a separate state-pension fund by the Government Service Insurance System (GSIS).\n</p>"
+          },
+          "2347197":{
+             "pageid":2347197,
+             "ns":0,
+             "title":"State Security Service (Nigeria)",
+             "index":5,
+             "extract":"<p class=\"mw-empty-elt\">\n\n</p>\n<p>The <b>State Security Service</b> (SSS), self-styled as the <b>Department of State Services</b> (DSS), is a  security agency of Nigeria and one of three successor organisations to the National Security Organization (NSO). \n</p><p>Its main responsibilities are within the country and include counter-intelligence, internal security, counter-terrorism, and surveillance as well as investigating some other types of grave crimes against the state. It is also charged with the protection of senior government officials, particularly the President and Vice President with their respective families, and state governors.\n</p><p>It is headquartered in Abuja. According to the 1999 Presidential Proclamation, the SSS operates as a department within the presidency and is under the control of the National Security Adviser.\n</p>"
+          }
+       }
+    }
+ }

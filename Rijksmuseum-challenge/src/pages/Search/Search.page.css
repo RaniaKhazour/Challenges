@@ -1,0 +1,155 @@
+html, body{
+  margin:0;
+  padding:0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.container {
+  background-image: url(../../assets/background-rijksmuseum.jpeg);
+  background-color: rgba(70, 70, 70, 0.6);
+  background-blend-mode: overlay;
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-sizing:border-box;
+}
+
+.search-container > h1 {
+  text-transform: uppercase;
+  font-size: 5em;
+  color: white;
+  text-align: center;
+  margin-bottom: 0.3em;
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);  
+}
+
+.search-container > h2 {
+  margin-bottom: 3em;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.spinner {
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 10%;
+}
+
+.language {
+  color: white;
+}
+
+.subtitle-header {
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+input#search-bar {
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+  height: 45px;
+  padding: 0 20px;
+  font-size: 1rem;
+  border: 1px solid #D0CFCE;
+  outline: none;
+  border-radius: 25px;
+  box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+input#search-bar:focus {
+  border: 1px solid rgb(238, 167, 52);
+  transition: 0.35s ease;
+} 
+
+.search-container {
+  width: auto;
+	height: auto;
+	position: absolute;
+	top: calc(50% - 15em);
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+
+.messageResult {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  background-color: red;
+  width: max-content;
+  margin: 0 auto;
+  padding: 5px;
+  border-radius: 10px;
+  transition: 0.4s ease;
+}
+
+@media only screen and (max-width: 600px) {
+  @supports (-webkit-overflow-scrolling: touch) { 	
+    .container { 		
+      background-attachment: scroll; 	
+    } 
+  }
+
+  .search-container {
+    top: calc(50% - 10em);
+  }
+
+  .search-container > h1 {
+    font-size: 2.5em;
+  }
+
+  input#search-bar {
+    width: 70%;
+  }
+
+  .subtitle-header {
+    font-size: 15px;
+  }
+
+  header div img {
+    width: 100px;
+    height: auto;
+  }
+
+  .language {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  input#search-bar {
+    height: 55px;
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66517b02.chunk.css",
+    "main.js": "/static/js/main.ffae2847.chunk.js",
+    "main.js.map": "/static/js/main.ffae2847.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe078807.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe078807.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.48d1465e.chunk.js": "/static/js/2.48d1465e.chunk.js",
+    "static/js/2.48d1465e.chunk.js.map": "/static/js/2.48d1465e.chunk.js.map",
+    "static/js/3.3182dd7b.chunk.js": "/static/js/3.3182dd7b.chunk.js",
+    "static/js/3.3182dd7b.chunk.js.map": "/static/js/3.3182dd7b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.66517b02.chunk.css.map": "/static/css/main.66517b02.chunk.css.map",
+    "static/js/2.48d1465e.chunk.js.LICENSE.txt": "/static/js/2.48d1465e.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.5a3a2510.png": "/static/media/arrow-left.5a3a2510.png",
+    "static/media/arrow-right.fad377eb.png": "/static/media/arrow-right.fad377eb.png",
+    "static/media/Search.page.css": "/static/media/background-rijksmuseum.ebcf30b2.jpeg",
+    "static/media/logo-header-rijksmuseum-amsterdam.4160c8e5.jpeg": "/static/media/logo-header-rijksmuseum-amsterdam.4160c8e5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe078807.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.48d1465e.chunk.js",
+    "static/css/main.66517b02.chunk.css",
+    "static/js/main.ffae2847.chunk.js"
+  ]
+}

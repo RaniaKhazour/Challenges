@@ -1,0 +1,78 @@
+button.search-btn {
+  background-color: rgb(238, 167, 52);
+  display: block;
+  margin: 0 auto;
+  padding: 15px 25px;
+  width: max-content;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  transition: 0.3s;
+  box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+button.search-btn:hover {
+  background-color: rgb(224, 128, 18);
+}
+
+.moveBtn {
+  position: absolute;
+  background-color: transparent;
+  padding: 15px 30px;
+  width: max-content;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  border: none;
+  font-size: 16px; 
+  color: white;
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#next {
+  display: block;
+  position: absolute;
+  right: 5%;
+  padding-top: 30px;
+}
+
+#previous {
+  display: block;
+  position: absolute;
+  left: 5%;
+  padding-top: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  #next img, #previous img {
+    width: 35px;
+    height: 35px;
+  }
+
+  #next {
+    right: 8%;
+  }
+  
+  #previous {
+    left: 8%;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  #next img, #previous img {
+    width: 55px;
+    height: 55px;
+  }
+}
